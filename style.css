@@ -1,0 +1,110 @@
+body {
+  background: rgb(240, 240, 240);
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  color: red;
+  font-weight: lighter;
+  font-size: 10px;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: lighter;
+  font-size: 18px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: grey;
+  font-weight: lighter;
+  font-size: 16px;
+}
+
+a {
+  color: yellow;
+}
+
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+#banner {
+  text-align: center;
+  background-image: url("images/banner.jpg");
+  background-size: cover;
+  padding: 150px;
+  margin: 100px color: white;
+  box-shadow: 1px 1px 3px grey;
+  text-shadow: 1px 1px 5px black;
+}
+
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+.avatar {
+	border-radius: 50%;
+	width: 200px;
+}
+
+#profile {
+  text-align: center;
+  padding: 30px;
+  background: black;
+  color: white font-size: 25px
+  padding: 150px;
+
+}
+
+#card {
+  padding: 50px;
+  font-weight: lighter;
+  text-align: center;
+  align-content: center;
+}
+
+#footer {
+  text-align: center;
+  padding: 30px;
+  background: black;
+  color: white font-size: 25px
+}
+
+#footer a {
+  color: grey;
+  font-size: 20px;
+}
+
+#footer a:hover {
+  color: white;
+  font-size: 25px;
+}
+
+#ccnote {
+  text-align: center;
+  padding: 30px;
+  background: black;
+  color: white font-size: 12px)
+}
+
+#ccnote a {
+  color: grey;
+  font-size: 12px;
+}
+
+#ccnote a:hover {
+  color: white;
+  font-size: 13px;
+}
